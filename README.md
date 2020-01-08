@@ -1,2 +1,1 @@
-# Time Series Analysis
-# - Using RNN 
+# Time Series Analysis using RNN
